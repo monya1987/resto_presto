@@ -1,0 +1,54 @@
+.title {
+  color: #191919;
+  font-weight: 600;
+  line-height: 18px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.sensor {
+  line-height: 18px;
+  color: #191919;
+  position: relative;
+  padding-left: 16px;
+  margin-bottom: 8px;
+  font-size: 14px;
+  font-weight: 400;
+  &:last-of-type {
+    margin-bottom: 16px;
+  }
+
+  &:before {
+    content: '';
+    position: absolute;
+    top: 6px;
+    left: 0;
+    width: 8px;
+    height: 8px;
+    background-color: #2DB528;
+    border-radius: 50px;
+  }
+
+  & > span {
+    color: #191919;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 18px;
+    width: 24px;
+    text-align: center;
+    display: inline-block;
+  }
+}
+
+.alarmSensor {
+  &:before {
+    background: var(--main-color-red);
+  }
+}
+
+.shrink {
+  transition: all .25s ease-in-out;
+  height: 0;
+  overflow: hidden;
+  margin: 0;
+}

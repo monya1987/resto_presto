@@ -1,0 +1,99 @@
+.tabs {
+  display: flex;
+  align-items: center;
+  flex-wrap: nowrap;
+  overflow-x: scroll;
+  border-bottom: 1px solid #D6D6D6;
+  & > button {
+    min-width: 110px;
+    height: 100%;
+    color: #7F7F7F;
+    border-bottom: 2px solid transparent;
+    border-radius: 0;
+    &:hover {
+      border-bottom-color: rgba(0, 0, 0, .03137);
+    }
+  }
+}
+
+.activeBtn {
+  border-bottom-color: #2880FF !important;
+  color: #191919 !important;
+}
+
+.hasAlarm {
+  & > span {
+    position: relative;
+    &:after {
+      content: '';
+      position: absolute;
+      top: -8px;
+      right: 0;
+      display: block;
+      background-color: #FF1919;
+      border-radius: 50px;
+      width: 8px;
+      height: 8px;
+    }
+  }
+}
+
+.title {
+  padding: 0 0 16px 0;
+  color: rgba(0, 0, 0, 0.8);
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+}
+
+.titleWrapper {
+  border-bottom: 1px solid #D6D6D6;
+  padding-left: 16px;
+  & > button {
+    margin-right: 8px;
+  }
+  & > div {
+    position: relative;
+    width: 141px;
+    height: 100%;
+  }
+}
+
+.btnShow {
+  color: #2880FF !important;
+}
+
+.rightBtn {
+  margin-left: auto;
+}
+
+.btn {
+  min-width: 141px;
+}
+
+.alarmZonesWrapper {
+  overflow-y: scroll;
+  position: relative;
+}
+
+button.toggleBtn {
+  color: #2880FF;
+  position: absolute;
+  margin-top: -3px;
+  right: 22px;
+
+  &:before {
+    display: none !important;
+  }
+
+  span {
+    line-height: 18px;
+    border-bottom: 1px dotted #2880FF;
+  }
+
+  &:hover {
+    span {
+      border-bottom-color: transparent;
+    }
+  }
+}

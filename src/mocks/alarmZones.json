@@ -1,0 +1,835 @@
+[
+  {
+    "id": 234,
+    "number": 41234,
+    "inWork": true,
+    "groups": [
+      {
+        "groupNumber": 1,
+        "sensors": [
+          {
+            "sensorNumber": 123,
+            "sensorName": "КТС стационарная"
+          },
+          {
+            "sensorNumber": 12,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 2,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 3,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 4,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 5,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2343,
+    "number": 41235,
+    "groups": [
+      {
+        "groupNumber": 12,
+        "sensors": [
+          {
+            "sensorNumber": 1,
+            "sensorName": "КТС стационарная"
+          },
+          {
+            "sensorNumber": 12,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 23,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 34,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 45,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 5,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2342,
+    "number": 41236,
+    "groups": [
+      {
+        "groupNumber": 12,
+        "sensors": [
+          {
+            "sensorNumber": 1,
+            "sensorName": "КТС стационарная"
+          },
+          {
+            "sensorNumber": 12,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 26,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 3,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 4,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 5,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2341123,
+    "number": 41237,
+    "groups": [
+      {
+        "groupNumber": 1,
+        "sensors": [
+          {
+            "sensorNumber": 1,
+            "sensorName": "КТС стационарная"
+          },
+          {
+            "sensorNumber": 12,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 2,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 3,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 4,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 5,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 234231,
+    "number": 41237,
+    "groups": [
+      {
+        "groupNumber": 1,
+        "sensors": [
+          {
+            "sensorNumber": 1,
+            "sensorName": "КТС стационарная"
+          },
+          {
+            "sensorNumber": 12,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 2,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 3,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 4,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 5,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 234123436990,
+    "number": 41237,
+    "groups": [
+      {
+        "groupNumber": 1,
+        "sensors": [
+          {
+            "sensorNumber": 1,
+            "sensorName": "КТС стационарная"
+          },
+          {
+            "sensorNumber": 12,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 2,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 3,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 4,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 43,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },      {
+        "groupNumber": 42,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 46,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 49,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 5,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23454541,
+    "number": 41237,
+    "groups": [
+      {
+        "groupNumber": 1,
+        "sensors": [
+          {
+            "sensorNumber": 1,
+            "sensorName": "КТС стационарная"
+          },
+          {
+            "sensorNumber": 12,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 2,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 3,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 4,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 5,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23489781,
+    "number": 41237,
+    "groups": [
+      {
+        "groupNumber": 1,
+        "sensors": [
+          {
+            "sensorNumber": 1,
+            "sensorName": "КТС стационарная"
+          },
+          {
+            "sensorNumber": 12,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 2,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 3,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 4,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 5,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2345645641,
+    "number": 41237,
+    "groups": [
+      {
+        "groupNumber": 1,
+        "sensors": [
+          {
+            "sensorNumber": 1,
+            "sensorName": "КТС стационарная"
+          },
+          {
+            "sensorNumber": 12,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 2,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 3,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 4,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 5,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23233548941,
+    "number": 41237,
+    "groups": [
+      {
+        "groupNumber": 1,
+        "sensors": [
+          {
+            "sensorNumber": 1,
+            "sensorName": "КТС стационарная"
+          },
+          {
+            "sensorNumber": 12,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 2,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 3,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 4,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 5,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23422,
+    "number": 41238,
+    "groups": [
+      {
+        "groupNumber": 1,
+        "sensors": [
+          {
+            "sensorNumber": 1,
+            "sensorName": "КТС стационарная"
+          },
+          {
+            "sensorNumber": 12,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 2,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 3,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      },
+      {
+        "groupNumber": 4,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Окно первый этаж, с наружной стороны"
+          }
+        ]
+      },
+      {
+        "groupNumber": 5,
+        "sensors": [
+          {
+            "sensorNumber": 14,
+            "sensorName": "Дверь"
+          },
+          {
+            "sensorNumber": 5,
+            "sensorName": "Контроль прибытия наряда (15) 15"
+          }
+        ]
+      }
+    ]
+  }
+]

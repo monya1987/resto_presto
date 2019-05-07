@@ -1,0 +1,66 @@
+.text {
+    font-weight: 600;
+    line-height: 18px;
+    white-space: normal;
+}
+
+.lastCol {
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+
+    button {
+        color: #2880FF;
+    }
+}
+
+.table {
+    height: 100%;
+}
+
+.td {
+    background: transparent !important;
+}
+.row {
+    background: #FCF0F2 !important;
+    &:hover {
+        background: #f7d6da !important;
+    }
+}
+.rowInWork {
+    background: #E9EFF6 !important;
+    &:hover {
+        background: #D0E3F5 !important;
+    }
+}
+
+.active {
+    background: #f7d6da !important;
+}
+.activeInWork {
+    background: #D0E3F5 !important;
+}
+
+.rtGroup {
+    cursor: pointer;
+    border-bottom: 1px solid #d6d6d6 !important;
+    &:hover {
+        background: #f3c6ce !important;
+    }
+}
+
+.slideLeft {
+    animation-name: slideLeft;
+    animation-duration: 0.3s;
+    animation-timing-function: ease-in-out;
+    visibility: visible !important;
+}
+
+@keyframes slideLeft {
+    0% {
+        transform: translateX(0%);
+    }
+    100% {
+        transform: translateX(-200%);
+    }
+}

@@ -1,0 +1,38 @@
+
+.topbarWrapper {
+  min-width: 1400px;
+  min-height: 56px;
+  & > div {
+    height: 56px;
+    box-sizing: content-box;
+    background: var(--base-color) !important;
+  }
+  .logoWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding: 16px;
+    height: 100% !important;
+    .logo {
+      max-height: 30px;
+      max-width: 100%;
+    }
+  }
+}
+
+.topbarContentWrapper {
+  align-items: center
+}
+
+.borderContent {
+  justify-content: center;
+  align-items: center;
+  &:after {
+    content: '';
+    width: 1px;
+    height: 24px;
+    background-color: #000;
+    opacity: 0.1;
+  }
+}

@@ -1,0 +1,56 @@
+.objectInfoWrapper {
+  position: relative;
+}
+
+.objectInfoOverlay {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(255, 255, 255, 0.8);
+  opacity: 0;
+  transition: .3s ease-in-out;
+  z-index: -1;
+  pointer-events: none;
+}
+
+.showObjectInfoOverlay {
+  opacity: 1;
+  z-index: 100;
+  pointer-events: all;
+  overflow-x: hidden;
+}
+
+.alarmObjectList {
+  border: 1px solid #D6D6D6;
+  border-right: none;
+}
+
+.alarmTitle, .alarmEvents {
+  border: 1px solid #D6D6D6;
+  z-index: 99;
+}
+
+.alarmEvents {
+  min-height: 230px !important;
+  height: 230px;
+  background: var(--base-color);
+  transition: min-height 0.25s ease-out;
+  z-index: 199;
+}
+
+.alarmEventsFullHeight {
+  min-height: calc(100% - 56px) !important;
+}
+
+.alarmInfo {
+  border-left: 1px solid #D6D6D6;
+  border-right: 1px solid #D6D6D6;
+}
+
+.alarmZones {
+  border-right: 1px solid #D6D6D6;
+}

@@ -1,0 +1,72 @@
+.table {
+  height: 100%;
+}
+
+.td {
+  white-space: normal !important;
+}
+
+.phoneCell {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-self: start;
+  width: 100%;
+  white-space: normal;
+  & span:last-child {
+    width: 20px;
+    & svg {
+      fill: #5a5a5c !important;
+    }
+  }
+}
+
+.statusCell {
+  display: flex;
+  align-items: center;
+  align-self: end;
+  .statusAvailable {
+    &:after {
+      content: '';
+      background: #5bb85c;
+      width: 6px;
+      height: 6px;
+      border-radius: 3px;
+      display: block;
+      margin-right: 5px;
+    }
+  }
+  .statusBusy {
+    content: '';
+    background: #fe923d;
+    width: 6px;
+    height: 6px;
+    border-radius: 3px;
+    display: block;
+    margin-right: 5px;
+  }
+}
+
+.modalWindow {
+  width: 700px;
+  & div {
+    border: none;
+  }
+}
+
+.row {
+  white-space: normal !important;
+  cursor: pointer;
+}
+
+.show {
+  opacity: 1;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+.active {
+  background: #e9f1ff !important;
+}

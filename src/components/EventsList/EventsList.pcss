@@ -1,0 +1,50 @@
+.status {
+    position: relative;
+    padding-left: 24px;
+
+    &:before {
+        position: absolute;
+        content: '';
+        display: block;
+        top: 6px;
+        left: 8px;
+        border-radius: 50px;
+        width: 8px;
+        height: 8px;
+    }
+}
+
+.table {
+    height: 100%;
+}
+
+.statusTest {
+    &:before { background-color: #FE923C; }
+}
+.statusReady {
+    &:before { background-color: #FD2A2A; }
+}
+.rtGroup {
+    border-bottom: 1px solid #d6d6d6 !important;
+}
+
+.td {
+    white-space: normal !important;
+    background: transparent !important;
+}
+.row {
+    background: var(--main-color-status-1) !important;
+    cursor: pointer;
+}
+.color0 {
+    background: var(--main-color-status-1) !important;
+}
+.color1 {
+    background: var(--main-color-status-2) !important;;
+}
+.color2 {
+    background: var(--main-color-status-3) !important;;
+}
+.color3 {
+    background: var(--main-color-status-4) !important;;
+}

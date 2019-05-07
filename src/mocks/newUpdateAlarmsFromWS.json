@@ -1,0 +1,21 @@
+[
+  {
+    "alarmProcessId": null,
+    "branchId": 54,
+    "code": 54,
+    "connectionId": "1c455e71-0896-4ea3-bdac-797e53011254",
+    "eventMode": "ALARM",
+    "eventStatus": "NEW",
+    "eventTypeId": "1c455e71-0896-4ea3-bdac-797e53011254",
+    "objectId": "1c455e71-0896-4ea3-bdac-797e53011254",
+    "objectName": "observation54",
+    "operator": null,
+    "panelNumber": "panelNumber54",
+    "panelTime": "2019-04-05T12:40:37.696102Z",
+    "serverRegTime": "2019-04-05T12:40:37.696102Z",
+    "status": "MILITANT",
+    "text": "быстрее сработала тревога!",
+    "uuid": "1c455e71-0896-4ea3-bdac-797e53011254",
+    "zoneNumber": 54
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "eventStatus": "NEW",
+    "objectId": "1c455e71-0896-4ea3-bdac-797e53011265",
+    "objectName": "Таджмахал",
+    "operator": null,
+    "panelNumber": "300 датчик",
+    "serverRegTime": "2019-04-05T12:40:37.696102Z",
+    "status": "MILITANT",
+    "text": "произошла тревога",
+    "uuid": "1c455e71-0896-4ea3-bdac-797e53011495"
+  },
+  {
+    "eventStatus": "NEW",
+    "objectId": "1c455e71-0896-4ea3-bdac-797e53011265",
+    "objectName": "Замок",
+    "operator": null,
+    "panelNumber": "10 датчик у двери",
+    "serverRegTime": "2019-04-05T12:40:37.696102Z",
+    "status": "MILITANT",
+    "text": "нажатие тревожной кнопки",
+    "uuid": "1c455e71-0896-5ea3-bdac-797e53011225"
+  }
+]

@@ -1,0 +1,73 @@
+.searchInputWrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 14px;
+  .searchInputField {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    .searchInput {
+      padding-right: 65px;
+      border-radius: 2px;
+      &:focus {
+        border: 1px solid #2780FF;
+      }
+    }
+    & > div {
+      position: relative;
+      .searchInputButtonWrapper {
+        position: absolute;
+        top: 2px;
+        right: 4px;
+        height: 100%;
+        align-items: center;
+        justify-content: flex-end;
+        .loader div {
+          left: -24px;
+          top: 7px;
+        }
+      }
+    }
+  }
+}
+.searchOptionsListWrapper {
+  padding: 0 !important;
+  top: 4px;
+  right: -4px;
+  font-size: 14px;
+  .searchOptionsList {
+    text-align: left;
+    max-height: 300px;
+    overflow-y: auto;
+    .searchOptionsListItem {
+      display: block;
+      text-decoration: none;
+      font-size: 14px;
+      font-weight: 400;
+      line-height: 18px;
+      padding: 8px;
+      cursor: pointer;
+      & div {
+        color: #191919;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 18px;
+        &:last-child {
+          color: #7F7F7F;
+          white-space: nowrap;
+          overflow: hidden;
+          text-overflow: ellipsis;
+        }
+      }
+      &:hover {
+        display: block;
+        background-color: #e9f2ff;
+      }
+    }
+    .searchOptionsListItemNoData {
+      color: rgb(153, 153, 153);
+      padding: 8px;
+    }
+  }
+}

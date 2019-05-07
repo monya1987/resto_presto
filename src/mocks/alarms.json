@@ -1,0 +1,113 @@
+[
+  {
+    "uuid": "1",
+    "objectID": "1",
+    "serverRegTime": 1553503121229,
+    "text": "Тревога в немедленной зоне (проникновение)…",
+    "panelNumber": "41234",
+    "object": "Квартира — Комаров Абрам Валентинович",
+    "operator": null,
+    "status": 2,
+    "inWork": true
+  },
+  {
+    "uuid": "2",
+    "objectID": "1",
+    "serverRegTime": 1553503121229,
+    "text": "Тревога в немедленной зоне (проникновение)…",
+    "panelNumber": "41234",
+    "object": "Квартира — Комаров Абрам Валентинович",
+    "operator": null,
+    "status": 2
+  },
+  {
+    "uuid": "13",
+    "objectID": "1",
+    "serverRegTime": 1553503121229,
+    "text": "Тревога в немедленной зоне (проникновение)…",
+    "panelNumber": "41234",
+    "object": "Квартира — Комаров Абрам Валентинович",
+    "operator": null,
+    "status": 2
+  },
+  {
+    "uuid": "14",
+    "objectID": "1",
+    "serverRegTime": 1553503121229,
+    "text": "Тревога в немедленной зоне (проникновение)…",
+    "panelNumber": "41234",
+    "object": "Квартира — Комаров Абрам Валентинович",
+    "operator": null,
+    "status": 2
+  },
+  {
+    "uuid": "15",
+    "objectID": "1",
+    "serverRegTime": 1553503121229,
+    "text": "Тревога в немедленной зоне (проникновение)…",
+    "panelNumber": "41234",
+    "object": "Квартира — Комаров Абрам Валентинович",
+    "operator": null,
+    "status": 2
+  },
+  {
+    "uuid": "16",
+    "objectID": "1",
+    "serverRegTime": 1553503121229,
+    "text": "Тревога в немедленной зоне (проникновение)…",
+    "panelNumber": "41234",
+    "object": "Квартира — Комаров Абрам Валентинович",
+    "operator": null,
+    "status": 2
+  },
+  {
+    "uuid": "17",
+    "objectID": "1",
+    "serverRegTime": 1553503121229,
+    "text": "Тревога в немедленной зоне (проникновение)…",
+    "panelNumber": "41234",
+    "object": "Квартира — Комаров Абрам Валентинович",
+    "operator": null,
+    "status": 2
+  },
+  {
+    "uuid": "18",
+    "serverRegTime": 1553503121229,
+    "objectID": "1",
+    "text": "Тревога в немедленной зоне (проникновение)…",
+    "panelNumber": "41234",
+    "object": "Квартира — Комаров Абрам Валентинович",
+    "operator": null,
+    "status": 2
+  },
+  {
+    "uuid": "19",
+    "objectID": "1",
+    "serverRegTime": 1553503121229,
+    "text": "Тревога в немедленной зоне (проникновение)…",
+    "panelNumber": "41234",
+    "object": "Квартира — Комаров Абрам Валентинович",
+    "operator": null,
+    "status": 2
+  },
+  {
+    "uuid": "111",
+    "objectID": "1",
+    "serverRegTime": 1553503121229,
+    "text": "Тревога в немедленной зоне (проникновение)…",
+    "panelNumber": "41234",
+    "object": "Квартира — Комаров Абрам Валентинович",
+    "operator": null,
+    "status": 2
+  },
+  {
+    "uuid": "112",
+    "objectID": "1",
+    "serverRegTime": 1553503121229,
+    "text": "Тревога в немедленной зоне (проникновение)…",
+    "panelNumber": "41234",
+    "object": "Квартира — Комаров Абрам Валентинович",
+    "operator": null,
+    "status": 2
+  }
+]
